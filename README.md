@@ -1,4 +1,7 @@
 # Velora — Digital Finance, Reimagined.
+## Application Preview
+
+![Velora Cryptocurrency Dashboard](velora-dashboard.png)
 
 **A matte-black cryptocurrency wallet and blockchain laboratory built with Java 17 + Swing.**
 
